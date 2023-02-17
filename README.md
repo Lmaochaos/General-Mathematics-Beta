@@ -24,7 +24,7 @@
 
 ## General Mathematics Quick Deploys
 
-[![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/GeneralMathematics/General-Mathematics-Beta)
+[![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/Lmaochaos/General-Mathematics-Beta?organization=Lmaochaos&organization=Lmaochaos)
 [![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/GeneralMathematics/General-Mathematics-Beta)
 
 ## Basic Guide
